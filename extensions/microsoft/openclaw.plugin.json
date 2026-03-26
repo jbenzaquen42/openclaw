@@ -1,9 +1,0 @@
-{
-  "id": "microsoft",
-  "speechProviders": ["microsoft"],
-  "configSchema": {
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {}
-  }
-}
